@@ -1,4 +1,4 @@
-# LiveOrderBook
+# Kraken Live Order Book
 
 This project maintains Kraken's live BTC•USD order book using the websocket order book feed. 
 
